@@ -25,9 +25,10 @@
 9. Tap on custom and enter your wifi MAC wifi.</br>
 10. [Optional] Go Back to modding menu and go to display options. Then select allow screenshots. (This setting allows you to Screen shot, screen record and stream TV to your friends.)</br>
 11. Go back to modding menu and tap on Cloning options.</br>
-12. [Only for Streamz+] Tap on Cloning mode and select Manifest and Skip native libraries.</br>
-13. Go back and check tick mark to start cloning.</br>
-14. Install the app and open. Sign in and you are done.</br>
+12. [Only for GX-1000] Tap on Cloning mode and select Manifest and Skip native libraries.</br>
+13. Go back to cloning mode scroll down and tap on safe mode.
+14. Go back and check tick mark to start cloning.</br>
+15. Install the app and open. Sign in and you are done.</br>
 </br>
 ![4](https://github.com/Astronxd/ViaTV/assets/32937797/5f46876e-948c-4012-ba93-68f0a6399037)</br>
 ![5](https://github.com/Astronxd/ViaTV/assets/32937797/64ebba45-0cd4-4c95-b753-9345c8ee9120)</br>

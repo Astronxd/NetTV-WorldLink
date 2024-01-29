@@ -30,8 +30,8 @@
 14. Go back and check tick mark to start cloning.</br>
 15. Install the app and open. Sign in and you are done.</br>
 </br>
-![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/0d2b7770-c5c3-4c8b-8f0c-9b00e7b642ae)</br>
-![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/d3f0f741-62e0-419a-9c68-f5d85d09d09a)</br>
+![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/0d2b7770-c5c3-4c8b-8f0c-9b00e7b642ae)
+![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/d3f0f741-62e0-419a-9c68-f5d85d09d09a)
 
 
 
@@ -39,7 +39,7 @@
 **Crash:**
 Go to cloning mode in step 12 scroll down and tap on safe mode.  </br>
 Go to step 9 and check if you have entered correct MAC Address.  </br>
-![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/9434742f-5145-487a-97db-7ff87a76aa98)</br>
+![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/9434742f-5145-487a-97db-7ff87a76aa98)
 
 <H1>Procedure for Streamz+ devices</H1>
 1. Open myWorldLink mobile app.</br>
@@ -67,8 +67,8 @@ Go to step 9 and check if you have entered correct MAC Address.  </br>
 22. Go back and check tick mark to start cloning.</br>
 23. Open the app and start watching.</br>
 </br>
-![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/ef204470-29ee-4240-8932-24a3bd52d6d3)</br>
-![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/f1320126-bf24-42de-bc9c-261c37ad2f2d)</br>
+![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/ef204470-29ee-4240-8932-24a3bd52d6d3)
+![image](https://github.com/Astronxd/NetTV-WorldLink/assets/32937797/f1320126-bf24-42de-bc9c-261c37ad2f2d)
 </br>
 
 
